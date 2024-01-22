@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'One Piece', sans-serif;
+    font-size: 350%;
+    margin: 30px;
+}
+
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+button {
+    background-color: #1d1d1d;
+    border-color: transparent;
+    font-weight: 900;
+    cursor: pointer;
+    padding: 8px 16px;
+    margin: 30px;
+}

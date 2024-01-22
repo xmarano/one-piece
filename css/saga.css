@@ -1,0 +1,126 @@
+@font-face{font-family:onepiece;src:url(../one_piece_font.ttf)}
+@font-face{font-family:japonais;src:url(../japan_font.ttf)}
+
+body {
+    text-align: center;
+    display: block;
+    margin: 10px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: onepiece;
+    font-size: 500%;
+    margin: 30px;
+    object-fit: contain;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h2 {
+    color: #58acf4;
+    font-family: onepiece;
+    font-size: 500%;
+    margin: 30px;
+    object-fit: contain;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+video {
+    max-width: 100%;
+	height: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.button1 {
+    font-weight: 900;
+    background-color: #1d1d1d;
+    border: none;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-right: 35px;
+    padding-left: 35px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: arial;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.button2 {
+    font-weight: 900;
+    background-color: #1d1d1d;
+    border: none;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-right: 35px;
+    padding-left: 35px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: arial;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.button3 {
+    font-weight: 900;
+    background-color: #041433;
+    border: none;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-right: 35px;
+    padding-left: 35px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: arial;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 900;
+}
+a {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+h3{
+    margin-top: 35px;
+    font-family: japonais;
+}
+
+h4{
+    margin: auto;
+    margin-bottom: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    display: block;
+    margin: 20px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'One Piece', sans-serif;
+    font-size: 330%;
+    margin: 30px;
+    object-fit: contain;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+video {
+    max-width: 100%;
+	height: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+button {
+    background-color: #1d1d1d;
+    border-color: transparent;
+    font-size: 100%;
+    font-weight: 900;
+    cursor: pointer;
+    padding: 15px 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}

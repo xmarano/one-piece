@@ -1,0 +1,113 @@
+@font-face{font-family:onepiece;src:url(../one_piece_font.ttf)}
+@font-face{font-family:japonais;src:url(../japan_font.ttf)}
+
+body {
+    text-align: center;
+    display: block;
+    margin: 10px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: onepiece;
+    font-size: 500%;
+    margin: 30px;
+    object-fit: contain;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+video {
+    max-width: 100%;
+	height: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+button {
+    background-color: #1d1d1d;
+    border-color: transparent;
+    font-size: 100%;
+    cursor: pointer;
+    padding: 15px 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.button1 {
+    color: #58acf4;
+    font-weight: 900;
+    background-color: #1d1d1d;
+    border: none;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 5px;
+    padding-left: 30px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: arial;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    cursor: pointer;
+    border-radius: 2px 0px 0px 2px;
+}
+.button2 {
+    background-color: #1d1d1d;
+    border: none;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 5px;
+    padding-left: 5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: arial;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    cursor: pointer;
+    border-radius: 0px 0px 0px 0px;
+}
+.button3 {
+    background-color: #1d1d1d;
+    border: none;
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 30px;
+    padding-left: 5px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: arial;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    cursor: pointer;
+    border-radius: 0px 2px 2px 0px;
+}
+
+a {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;   
+}
+
+h3{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-family: japonais;
+    font-size: 20px;
+}
